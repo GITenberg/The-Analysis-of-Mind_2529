@@ -1,0 +1,34 @@
+_repo: The-Analysis-of-Mind_2529
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    - Russell, Bertrand Russell, 3d Earl
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: In The Analysis of Mind, influential author Bertrand Russell offers his
+  ideas about the human mind and of what it may be composed. The book consists of
+  a collection of lectures that he gave in London, including &#147;Recent Criticisms
+  of &#145;Consciousness,' &#147;Desire and Feeling, and &#147;Belief.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Consciousness'
+- !lcsh 'Psychology'
+- !lcc 'BF'
+- GITenberg
+title: The Analysis of Mind
+url: http://www.gutenberg.org/ebooks/2529
