@@ -1,5 +1,8 @@
 _repo: The-Analysis-of-Mind_2529
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Russell, Bertrand
@@ -15,6 +18,8 @@ description: In The Analysis of Mind, influential author Bertrand Russell offers
   ideas about the human mind and of what it may be composed. The book consists of
   a collection of lectures that he gave in London, including &#147;Recent Criticisms
   of &#145;Consciousness,' &#147;Desire and Feeling, and &#147;Belief.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2529#The-Analysis-of-Mind
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
